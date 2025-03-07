@@ -19,8 +19,8 @@ let package = Package(
             dependencies: ["UnityFramework"]
         ),
         .binaryTarget(name: "UnityFramework",
-                      url: "https://github.com/ettspa/ett-ios-vdtcore-v5-unitymodule/releases/download/0.0.9/UnityFramework.xcframework.zip",
-                      checksum: "64dd4ab1a1c18248301ce3f9dbdc01a0656615eb5bdfc19b5a75049b208f5934"),
+                      url: "https://github.com/ettspa/ett-ios-vdtcore-v5-unitymodule/releases/download/0.0.10/UnityFramework.xcframework.zip",
+                      checksum: "21d0aef043ba2a963137d53b6fe9862d8f04502646c146fe1a92b52a37a1f147"),
 
     ]
 )
