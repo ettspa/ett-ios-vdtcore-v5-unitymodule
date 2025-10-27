@@ -20,7 +20,7 @@ let package = Package(
         ),
         .binaryTarget(name: "UnityFramework",
                       url: "https://github.com/ettspa/ett-ios-vdtcore-v5-unitymodule/releases/download/5.1.0/UnityFramework.xcframework.zip",
-                      checksum: "229288e951e726c13f26eea31660d779912c49d73e205bd3356456f8b3add994"),
+                      checksum: "efae13d8b6c8d6ae7979c43e67670f6ae48a6f7df0ab00bfb4378169cf7f2d36"),
 
     ]
 )
